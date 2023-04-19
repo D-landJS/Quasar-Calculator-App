@@ -13,7 +13,7 @@ In this repository you will find a calculator App.
 ---
 
 > URL Netlify Page ->
-> [Click here](https://docs.google.com/document/d/e/2PACX-1vTI6Zgjta6-j8Ll8BmQ9ZPFP3fRUqar16XqnYGSmZGbbw8rcMZ728zayCcrSDltI8GWAuOwmh0wLYCm/pub)
+> [Click here](https://quasar-calculator-app.netlify.app)
 
 ---
 
